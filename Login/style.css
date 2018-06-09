@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('b2.jpg');
+    background-size: cover;
+
+}
+.login{
+    max-width: 340px;
+    margin:10% auto;
+    background: #FFE4C4 rgba(0,0,0,0.5);
+    font-family: 'Dosis', sans-serif;
+}
+.login h3{
+    text-align: center;
+    padding: 20px 10px;
+    background-color: #008000 rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+    border-radius: 20px;
+}
+
+form{
+    padding: 0;
+    margin: auto;
+    padding: 15px;
+
+}
+.inputform{
+    width: 90%;
+    padding: 1em;
+    margin-top: 1.2em;
+    color: #888;
+    font-size: 12px;
+    font-family: 'Dosis', sans-serif;
+}
+.submitform{
+    width: 100%;
+    padding: 1.2em;
+    margin: 1.5em 0;
+    color: #888;
+    background-color: rgba(0,0,0,0.5); 
+    border:none;
+    color:#eee;
+    border-bottom: 0px solid transparent;
+    border-radius: 20px;
+    font-size: 18px;
+    font-family: 'Dosis', sans-serif;
+}
+.submitform:hover{
+    opacity: 0.8;
+    color: white;
+    background: darkorange;
+}
+form p{
+    text-align: center;
+    color: #888;
+    width: 30px;
+    margin: 10px auto 0;
+    background: #f9f9f9;
+    position: relative;
+    bottom: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+.border-p{
+    border-top: 1px solid #888;
+    margin: 10px 10px;
+}
+button{
+    background-color: #3b5998;
+    width: 100%;
+    padding: 1.4em;
+    margin-bottom: 1em;
+    color: #888; ;
+    border:none;
+    color:#eee;
+    border-bottom: 4px solid transparent;
+    border-radius: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+button:hover{
+    opacity: 0.9;
+    background: #3b3998;
+}*/
